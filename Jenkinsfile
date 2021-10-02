@@ -10,7 +10,6 @@ pipeline {
       }
       steps {
         sh '''npm ci
-npm 
 npm run'''
       }
     }
